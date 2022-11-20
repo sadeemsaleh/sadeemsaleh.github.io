@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sadeem Alsudais</title>
+    <link>http://sadeemsaleh.github.io/</link>
+    <description>Recent content on Sadeem Alsudais</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://sadeemsaleh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>http://sadeemsaleh.github.io/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sadeemsaleh.github.io/publication/</guid>
+      <description>In reverse chronological order: Reshape: Adaptive Result-aware Skew Handling for Exploratory Analysis on Big Data, Avinash Kumar, Sadeem Alsudais, Shengquan Ni, and Zuozhi Wang, Yicong Huang, Chen Li. [PDF] Maliva: Using Machine Learning to Rewrite Visualization Queries Under Time Constraints, Qiushi Bai, Sadeem Alsudais, Chen Li, Shuang Zhao, in EDBT 2023. [PDF] [Extended version] GSViz: Progressive Visualization of Geospatial Influences in Social Networks, Sadeem Alsudais, Qiushi Bai, Shuang Zhao, Chen Li, in SIGSPATIAL 2022.</description>
+    </item>
+    
+  </channel>
+</rss>
