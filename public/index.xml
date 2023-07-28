@@ -7,12 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://sadeemsaleh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>News</title>
+      <link>http://sadeemsaleh.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sadeemsaleh.github.io/news/</guid>
+      <description>07/2023: I successfully defended my PhD dissertation. 06/2023: I presented Raven at the HILDA workshop co-located with Sigmod. It was a great experience working with my mentor Dr. Zhengjie Miao to refine the work. 06/2023: I was hooded by my advisor, Prof. Li, at the UC Irvine graduate commencement. 04/2023: I successfully passed my PhD topic proposal. 04/2023: It was a valuable experience volunteering at the ICDE 2023 conference. 11/2022: I am honored to receive the &amp;ldquo;Isabel Cruz Memorial Travel Grant&amp;rdquo; to recognize junior female researchers in geospatial fields.</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>http://sadeemsaleh.github.io/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://sadeemsaleh.github.io/publication/</guid>
-      <description>In reverse chronological order: Reshape: Adaptive Result-aware Skew Handling for Exploratory Analysis on Big Data, Avinash Kumar, Sadeem Alsudais, Shengquan Ni, and Zuozhi Wang, Yicong Huang, Chen Li. [PDF] Maliva: Using Machine Learning to Rewrite Visualization Queries Under Time Constraints, Qiushi Bai, Sadeem Alsudais, Chen Li, Shuang Zhao, in EDBT 2023. [PDF] [Extended version] GSViz: Progressive Visualization of Geospatial Influences in Social Networks, Sadeem Alsudais, Qiushi Bai, Shuang Zhao, Chen Li, in SIGSPATIAL 2022.</description>
+      <description>In reverse chronological order: Using Texera to Characterize Climate Change Discussions on Twitter During Wildfires (poster), Shengquan Ni, Yicong Huang, Jessie W. Y. Ko, Alexander Taylor, Xiusi Chen, Avinash Kumar, Sadeem Alsudais, Zuozhi Wang, Xiaozhen Liu, Wei Wang, Suellen Hopfer, and Chen Li, Data Science Day at KDD 2023. Demo of QueryBooster: Supporting Middleware-based SQL Query Rewriting as a Service (demo paper), Qiushi Bai, Sadeem Alsudais, Chen Li, VLDB 2023.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Experience</title>
+      <link>http://sadeemsaleh.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sadeemsaleh.github.io/teaching/</guid>
+      <description>Teaching Experience Teaching Assistant, Spring 2021, UC Irvine COMPSCI 171; Introduction to Artificial Intelligence Teaching Assistant, Spring 2020, UC Irvine COMPSCI 122B; Project in Databases and Web Applications Teaching Assistant, Winter 2020, UC Irvine COMPSCI 222; Principles of Data Management Teaching Assistant, Fall 2019, UC Irvine COMPSCI 132; Computer Networks Advisor, Fall 2017 and Spring 2018, KSU SWE497; Graduation Project Lecturer and Course coordinator, Spring 2018, KSU SWE481; Advanced Web Applications Engineering Lecturer and Course coordinator, Spring 2017 and Fall 2017, KSU SWE321; Software Design and Architecture Teaching Assistant, Fall 2016, KSU SWE381; Web Application Development Teaching Assistant, Fall 2016, KSU CSC113; Computer Programming-II </description>
     </item>
     
   </channel>
